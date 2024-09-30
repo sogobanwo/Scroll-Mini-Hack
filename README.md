@@ -21,7 +21,8 @@ The SpeakUp frontend is built using Next.JS and provides a user-friendly interfa
 ## Getting Started
 
 ### Contract Installation
-Clone the repository: git clone https://github.com/sogobanwo/Speakup-Mini-Hack.git
+Clone the repository: [https://github.com/sogobanwo/Scroll-Mini-Hack.git](https://github.com/sogobanwo/Scroll-Mini-Hack.git)
+
 Install dependencies: npm install
 
 ### Frontend Setup
